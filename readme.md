@@ -1,5 +1,6 @@
 #Git Course
 
 THis is complete git learn
- ##checking changes for branch
+
+This is from Feature branch
 ##Sample change
