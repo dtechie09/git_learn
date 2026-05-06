@@ -12,6 +12,8 @@ TO check the changes in features
 
 To test merge conflicts
 
+To test merge conflicts in main
+
 # Changes 1
 
 # Changes 2
