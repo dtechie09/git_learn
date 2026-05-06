@@ -1,5 +1,5 @@
 #Git Course
 
 THis is complete git learn
-##Bug branch
+##New Bug branch merge without conflicts.
 ##Sample change
