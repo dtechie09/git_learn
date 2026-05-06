@@ -11,3 +11,19 @@ This is from Feature branch
 TO check the changes in features
 
 To test merge conflicts
+
+# Changes 1
+
+# Changes 2
+
+# Changes 3
+
+# Changes 4
+
+
+# This is priorit after stashing
+# I am working on non priority task - not completed
+
+# This is priorit after stashing{1}
+
+
