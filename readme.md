@@ -9,3 +9,5 @@ This is from Feature branch
 
 
 TO check the changes in features
+
+To test merge conflicts
